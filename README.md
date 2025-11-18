@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-This is my other file.
+
 =======
 # logsanswer
 roadmap logs archive answer script which uses GO and it's folder
