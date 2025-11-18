@@ -9,4 +9,4 @@ sudo ./log-archive /var/log
 
 ## this will create a folder on the desktop that has the archived logs view them using for ex: using engrampa to decompress##
 
->>>>>>> 4a9b15b6230d4d5d374d0e2eaa183e98096917da
+https://github.com/Cedrick250/logs_answer
