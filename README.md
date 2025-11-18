@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 This is my other file.
+=======
+# logsanswer
+roadmap logs archive answer script which uses GO and it's folder
+## open folder run these commands in terminal##
+make sure to have go installed on your machine
+go build -o log-archive log_checker.go 
+sudo ./log-archive /var/log
+
+## this will create a folder on the desktop that has the archived logs view them using for ex: using engrampa to decompress##
+
+>>>>>>> 4a9b15b6230d4d5d374d0e2eaa183e98096917da
